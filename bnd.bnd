@@ -1,0 +1,5 @@
+Bundle-Name: forms-report-project
+Bundle-SymbolicName: forms.report.project
+Bundle-Version: 1.0.0
+Export-Package: forms.report.project.constants
+Web-ContextPath: /forms-report-project
